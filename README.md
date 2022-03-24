@@ -7,3 +7,4 @@
 - [Caesar Cipher - Encrypt a Message using Caesar Encrypting Scheme](./3-Caesar-cipher/caesar.py)
 - [Caesar Hacker - Decrypt a Message using all possible keys](./4-Caesar-hacker/hacker.py)
 - [Clickbait Headline Generator - Generate Fake Headlines](./5-Clickbait-generator/generator.py)
+- [Seven Segment Display - Display Digits using Seven Segments](./8-Seven-Segment-Display/display.py)
