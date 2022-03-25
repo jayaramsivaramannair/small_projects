@@ -8,3 +8,4 @@
 - [Caesar Hacker - Decrypt a Message using all possible keys](./4-Caesar-hacker/hacker.py)
 - [Clickbait Headline Generator - Generate Fake Headlines](./5-Clickbait-generator/generator.py)
 - [Seven Segment Display - Display Digits using Seven Segments](./8-Seven-Segment-Display/display.py)
+- [Digital Clock - Display Hours, Minutes and Seconds using Seven Segments](./7-Digital-Clock/clock.py)
